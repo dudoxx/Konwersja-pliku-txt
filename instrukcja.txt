@@ -1,0 +1,7 @@
+Aby uruchomiæ program otwieramy wiersz poleceñ i wpisujemy algenv4 nazwapliku.txt.
+
+Program utworzy na podstawie tego pliku przekonwertowany plik o nazwie [v4]convert-nazwapliku.txt
+
+Przyk³adowe pliki surowe oznaczone od 1 do 4 np. 1.txt
+
+Pliki
